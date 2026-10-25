@@ -1,2 +1,6 @@
-# personal-risk-quest-v1
-personal-risk-quest v1
+# Personal Risk Quest 3D
+
+Game risiko 3D (Risk World).
+
+GitHub Pages: Settings > Pages > Deploy from branch > main / (root).
+Pastikan folder `assets/` dimuat naik bersama `index.html`.
